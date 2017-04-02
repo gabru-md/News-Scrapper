@@ -1,6 +1,6 @@
 # this is a News Scrapper!
 #importing necessary files as mentioned in README.md
-
+#
 import urllib2
 from bs4 import * # not necessary
 import json
